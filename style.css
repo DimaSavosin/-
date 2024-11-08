@@ -60,20 +60,6 @@ input[type="submit"]:active {
     background-color: #1f70a5;
 }
 
-footer {
-    margin-top: 40px;
-    font-size: 14px;
-    color: #7f8c8d;
-}
-
-footer a {
-    text-decoration: none;
-    color: #3498db;
-}
-
-footer a:hover {
-    text-decoration: underline;
-}
 
 
 
